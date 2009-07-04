@@ -66,7 +66,7 @@
 <div id="backg">
 
 <div id="button">
-<h2><a href="/learnmore">learn more</a></h2>
+<h2><a href="http://laptop.org">learn more</a></h2>
 </div>
 
 <hr />
