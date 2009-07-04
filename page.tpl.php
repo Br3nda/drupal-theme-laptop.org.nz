@@ -29,7 +29,7 @@
 
 <div id="logo">
    <div id="logoimage">
-<h1><a href="#"><span class="color1">OLPC</span><span class="color2">Friends in Testing</span> New Zealand</a></h1>
+<h1><a href="#"><span class="color1">One Laptop </span><span class="color2">Per Child</span></a></h1>
    </div>
 </div>
 
@@ -45,9 +45,9 @@
 
 <div id="list">
 <ol>
-<li id="num1">Lorem <strong>ipsum dolor</strong> sit amed</li>
-<li id="num2">gravida tuttus, ut dignissim <strong>leo</strong></li>
-<li id="num3">nam <strong>diam</strong> purus, aliquam</li>
+<li id="num1">Friends</li>
+<li id="num2">in</li>
+<li id="num3">testing</li>
 </ol>
 </div>
 
