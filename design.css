@@ -2,7 +2,7 @@ hr {display:none;}
 a  {text-decoration: none; font-family:arial;}
 
 body{
-background: URL(../forte_green/head.png) repeat-x;
+background: URL(head.png) repeat-x;
 font-family:arial;
 margin:0px;
 }
@@ -17,7 +17,7 @@ margin:0px;
  position:relative;
  float: left; 
  border: none;
- background: URL(../forte_green/headlogo.png) no-repeat;
+ background: URL(headlogo.png) no-repeat;
  width: 255px; height: 58px;
  top: -9px;
 }
@@ -33,7 +33,7 @@ margin:0px;
 
 #logoimage {
  float:left;
- background: URL(../forte_green/logoimage.png)  no-repeat;
+ background: URL(logoimage.png)  no-repeat;
  margin-left:80px;
 }
 
@@ -72,7 +72,7 @@ margin:0px;
 #list {
  float:left;
  clear:both;
- background: url(../forte_green/list.jpg) left top no-repeat;
+ background: url(list.jpg) left top no-repeat;
  width:400px;
  height:168px;
  margin-top:9px;
@@ -136,7 +136,7 @@ color:#435E17;
 #button {
 float:right;
 clear:both;
-background: URL(../forte_green/button.png);
+background: URL(button.png);
 width:168px;
 height:95px;
 margin-top:-49px;
@@ -231,7 +231,7 @@ th, td { padding:3px 5px; }
 
 #footer1 {
 clear: both;
-background: url(../forte_green/footer.gif) repeat-x;
+background: url(footer.gif) repeat-x;
 height:25px;
 }
 
@@ -240,7 +240,7 @@ clear: both;
 float: left; 
 width: 100%;
 margin-top:-30px; 
-background: url(../forte_green/footer.gif);
+background: url(footer.gif);
 background-repeat: repeat-x;
 height:25px;
 }
