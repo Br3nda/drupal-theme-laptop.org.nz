@@ -54,7 +54,7 @@
 
 <div id="slogan">
 <h2>
-Business is not alike<br /> ...but your profit is...
+	<?php echo $slogan;?>
 </h2>
 </div>
 
