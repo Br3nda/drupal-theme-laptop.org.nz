@@ -186,12 +186,12 @@ p {
 */
 
 #contect {
-	clear:both;
+	clear: all;
 	float:left;
 	width:470px;
 	color:#6A6A6A;
 	margin-left:20px;
-	margin-top:-215px;
+/*	margin-top:-215px; */
 	line-height:20px;
 }
 
