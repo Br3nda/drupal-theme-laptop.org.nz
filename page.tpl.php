@@ -29,7 +29,7 @@
 
 <div id="logo">
    <div id="logoimage">
-<h1><a href="#"><span class="color1">OLPC</span><span class="color2">NZ</span></a></h1>
+<h1><a href="<?php echo url('<front>');?>"><span class="color1">OLPC</span><span class="color2">NZ</span></a></h1>
    </div>
 </div>
 
