@@ -14,11 +14,11 @@
 <link rel="stylesheet" href="../forte_green/design.css" type="text/css" media="screen" />
 
 <!--[if gte IE 6]> 
-<link rel="stylesheet" type="text/css" href="../forte_green/ie.css" media="screen, projection" /> 
+<link rel="stylesheet" type="text/css" href="/<?php echo $directory;?>/ie.css" media="screen, projection" /> 
 <![endif]-->
 
 <!--[if IE 7.0]>
-<link rel="stylesheet" type="text/css" href="../forte_green/ie7.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="/<?php echo $directory;?>/ie7.css" media="screen, projection" />
 <![endif]-->
 
 </head>
