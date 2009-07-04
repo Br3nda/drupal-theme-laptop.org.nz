@@ -46,8 +46,8 @@
 <div id="list">
 <ol>
 <li id="num1"><strong>Aotearoa</strong></li>
-<li id="num2">OLPC <strong>Friends</strong> in</li>
-<li id="num3"><strong>testing</strong></li>
+<li id="num2">OLPC <strong>Friends</strong></li>
+<li id="num3">in <strong>Testing</strong></li>
 </ol>
 </div>
 
