@@ -182,7 +182,10 @@ Nam diam purus, aliquam non, ultrices in, viverra.
 
 <div id="footer1">
 <p class="footer">
+<?php /*
 designed: <a href="http://www.fakam.sk">fakam.sk</a> <br />sponsored: <a href="http://www.hrajsa.sk" title="online hry, plne hry, zadarmo">Free online games</a>, Thanks to <a href="http://www.help4diabetics.com" target="_blank">Diabetic Supplies</a>
+*/?>
+<?php echo $footer;?>
 </p>
 </div>
 
