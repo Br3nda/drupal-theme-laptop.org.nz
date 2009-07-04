@@ -128,11 +128,11 @@ Nam diam purus, aliquam non, ultrices in, viverra.
 
 
 <div id="imagesmall">
-<img src="image_small.png" alt="image small" />
+<img src="/<?php echo $directory; ?>/image_small.png" alt="image small" />
 </div>
 
 <div id="imagebig">
-<img src="image_big.png" alt="image big" />
+<img src="/<?php echo $directory;?>/image_big.png" alt="image big" />
 </div>
 
           
