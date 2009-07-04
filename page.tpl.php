@@ -33,7 +33,7 @@
    </div>
 </div>
 
-<?php echo theme('links', $primary_links); ?>
+<?php echo theme('links', $primary_links, array('id' => 'menu')); ?>
 <?php /*
 <ul id="menu">
 <li id="home"><a href="#">Home</a></li>
@@ -69,12 +69,15 @@
 
 <hr />
 
+<?php echo theme('links', $secondary_links, array('id' => 'menu2')); ?>
+<?php /*
 <ul id="menu2">
 <li id="info"><a href="#">info</a></li>
 <li id="product"><a href="#">product</a></li>
 <li id="service"><a href="#">service</a></li>
 <li id="blog"><a href="#">blog</a></li>
 </ul>
+*/?>
 
 <hr />
 
