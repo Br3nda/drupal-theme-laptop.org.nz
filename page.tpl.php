@@ -59,7 +59,7 @@
 <div id="slogan">
 <h2>
 	<?php echo $slogan;?>
-<?php print $breadcrumb ?>
+<?php //print $breadcrumb ?>
 </h2>
 </div>
 
