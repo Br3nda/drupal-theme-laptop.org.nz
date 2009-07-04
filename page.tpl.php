@@ -86,6 +86,8 @@
 </div>
 
 <div id="news">
+<?php echo $sidebar;?>
+<?php /*
 
 <h3>What's news</h3>
 
@@ -113,6 +115,8 @@
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
     Nam diam purus, aliquam non, ultrices.
   </p>
+*/
+?>
 
 </div>
 
@@ -124,6 +128,7 @@
 
 <hr />
 <div id="contect">
+<?php echo $tabs;?>
 <?php echo $content;?>
 <?php /*
 <p class="contect1">
