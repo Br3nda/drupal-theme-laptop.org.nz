@@ -80,13 +80,20 @@
 </ul>
 */?>
 
+        <?php if ($show_messages && $messages != ""): ?>
+          <?php print $messages ?>
+        <?php endif; ?>
+
+
 <hr />
 
 
 <div id="line1">
 </div>
 
-<div id="news">
+<div id="sidebar">
+
+
 <?php echo $sidebar;?>
 <?php /*
 
@@ -122,13 +129,16 @@
 </div>
 
 
+<?php /*
 <div id="old">
 <a href="#">old news>></a>
 </div>
-
+*/?>
 
 <hr />
 <div id="contect">
+<?php print $breadcrumb ?>
+
 <?php echo $tabs;?>
 <?php echo $content;?>
 <?php /*
