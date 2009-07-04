@@ -61,7 +61,7 @@
 <div id="backg">
 
 <div id="button">
-<h2><a href="#">learn more</a></h2>
+<h2><a href="/learnmore">learn more</a></h2>
 </div>
 
 <hr />
@@ -81,7 +81,7 @@
 
 <div id="news">
 
-<h3>What’s news</h3>
+<h3>What's news</h3>
 
 <p class="date1">2nd of August 2008</p>
   <p class="news1">
