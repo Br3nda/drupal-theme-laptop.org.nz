@@ -12,6 +12,7 @@
    <meta name="description" content="" />
    <meta name="generator" content="" />
 <link rel="stylesheet" href="../forte_green/design.css" type="text/css" media="screen" />
+<?php echo $styles;?>
 
 <!--[if gte IE 6]> 
 <link rel="stylesheet" type="text/css" href="/<?php echo $directory;?>/ie.css" media="screen, projection" /> 
