@@ -12,6 +12,7 @@
    <meta name="description" content="" />
    <meta name="generator" content="" />
 <?php echo $styles;?>
+<?php echo $scripts;?>
 
 <!--[if gte IE 6]> 
 <link rel="stylesheet" type="text/css" href="/<?php echo $directory;?>/ie.css" media="screen, projection" /> 
