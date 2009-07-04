@@ -136,8 +136,8 @@
 */?>
 
 <hr />
-<div id="contect">
 <?php print $breadcrumb ?>
+<div id="contect">
 
 <?php echo $tabs;?>
 <?php echo $content;?>
