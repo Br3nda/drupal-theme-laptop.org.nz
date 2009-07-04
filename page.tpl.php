@@ -29,7 +29,7 @@
 
 <div id="logo">
    <div id="logoimage">
-<h1><a href="#"><span class="color1">Logo</span><span class="color2">Type</span></a></h1>
+<h1><a href="#"><span class="color1">OLPC</span><span class="color2">Friends in Testing</span> New Zealand</a></h1>
    </div>
 </div>
 
