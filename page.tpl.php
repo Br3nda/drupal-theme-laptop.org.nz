@@ -3,7 +3,7 @@
    <head profile="http://gmpg.org/xfn/11">
    <meta http-equiv="Content-Type" content="text/html; charset=windows-1250" />
       <title> 
-         forte green
+	<?php echo $head_title;?>
       </title>
    <meta name="copyright" content="" />
    <meta name="robots" content="index,follow" />
@@ -11,7 +11,6 @@
    <meta name="keywords" content="" />
    <meta name="description" content="" />
    <meta name="generator" content="" />
-<link rel="stylesheet" href="../forte_green/design.css" type="text/css" media="screen" />
 <?php echo $styles;?>
 
 <!--[if gte IE 6]> 
@@ -21,6 +20,7 @@
 <!--[if IE 7.0]>
 <link rel="stylesheet" type="text/css" href="/<?php echo $directory;?>/ie7.css" media="screen, projection" />
 <![endif]-->
+<?php echo $head;?>
 
 </head>
   
