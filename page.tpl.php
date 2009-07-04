@@ -118,8 +118,8 @@
 
 <hr />
 <div id="contect">
-<?php echo $content;?>
 <p class="contect1">
+<?php echo $content;?>
 Lorem ipsum dolor sit amet, consectetuer. gravida tellus, ut dignissim leo risus ut ligula. urna gravida tellus, ut dignissim leo risus ut ligula.
 ellus sit amet sodales dignissim, enim urna gravida. ipsum. Mauris eu mi eget dolor tristique interdum. ultrices in, viverra nec, ipsum. Mauris eu mi eget.
 Nam diam purus, aliquam non, ultrices in, viverra.
