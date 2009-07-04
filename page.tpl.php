@@ -29,7 +29,7 @@
 
 <div id="logo">
    <div id="logoimage">
-<h1><a href="#"><span class="color1">Aotearoa </span><span class="color2">New Zealand</span></a></h1>
+<h1><a href="#"><span class="color1">OLPC</span><span class="color2">NZ</span></a></h1>
    </div>
 </div>
 
@@ -45,8 +45,8 @@
 
 <div id="list">
 <ol>
-<li id="num1"><strong>OLPC</strong></li>
-<li id="num2"><strong>Friends</strong> in</li>
+<li id="num1"><strong>Aotearoa</strong></li>
+<li id="num2">OLPC <strong>Friends</strong> in</li>
 <li id="num3"><strong>testing</strong></li>
 </ol>
 </div>
