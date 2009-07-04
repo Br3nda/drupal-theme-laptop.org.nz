@@ -2,9 +2,15 @@ hr {display:none;}
 a  {text-decoration: none; font-family:arial;}
 
 body{
-background: URL(head.png) repeat-x;
-font-family:arial;
-margin:0px;
+	background: URL(head.png) repeat-x;
+	font-family: "Verdana", "Arial", "Helvetica", sans-serif;
+	margin:0px;
+	font-size:12px;
+}
+a { 
+	color: black;
+	font-weight: bold;
+	text-decoration:underline;
 }
 
 #site {
@@ -48,26 +54,27 @@ margin:0px;
 
 
 #menu li {
+	float: left;
+	height: 42px;
+	line-height: 42px; 
+}
 			
-			float: left;
-			height: 42px;
-			line-height: 42px; }
+#menu li a {
+	padding: 10px 20px;
+	color: #BBBABA;
+	font: bold 12px "Verdana", "Arial", "Helvetica", sans-serif;
+	text-decoration: none; 
+}
 			
-				#menu li a {
-			padding: 10px 20px;
-			color: #BBBABA;
-			font: bold 12px "Verdana", "Arial", "Helvetica", sans-serif;
-			text-decoration: none; }
-			
-			#menu li a:hover {
-			text-decoration:underline;
-			}
+#menu li a:hover {
+	text-decoration:underline;
+}
 			
 			
-	            #home a {
-			background-color: #A3A710;
-			color:#FFfFff !important; 
-		      }
+#home a {
+	background-color: #A3A710;
+	color:#FFfFff !important; 
+}
 
 #list {
  float:left;
@@ -104,7 +111,7 @@ margin:0px;
   float:left;
   clear:both;
   background-color:#FAFBFC;
-  margin-top:41px;
+  margin-top:51px;
   padding-bottom:50px;
 }
 
@@ -139,7 +146,7 @@ clear:both;
 background: URL(button.png);
 width:168px;
 height:95px;
-margin-top:-49px;
+margin-top:-51px;
 margin-right:100px;
 }
 
@@ -158,7 +165,7 @@ color: #989595;
 font-weight:normal;
 }
 
-#news {
+#sidebar {
 margin-right:20px;
 clear:both;
 width:330px;
@@ -168,22 +175,24 @@ color:#ADADAD;
 margin-top:-20px;
 }
 
-#news h3 {font-size:25px;}
+#sidebar h3 {font-size:25px;}
 
-.date1,.date2,.date3 {
-font-size:15px;
-color:#435E17;
-margin-top:35px;
+/*
+p {
+	font-size:15px;
+	color:#435E17;
+	margin-top:35px;
 }
+*/
 
 #contect {
-clear:both;
-float:left;
-width:470px;
-color:#6A6A6A;
-margin-left:20px;
-margin-top:-515px;
-line-height:20px;
+	clear:both;
+	float:left;
+	width:470px;
+	color:#6A6A6A;
+	margin-left:20px;
+	margin-top:-515px;
+	line-height:20px;
 }
 
 #old a {
