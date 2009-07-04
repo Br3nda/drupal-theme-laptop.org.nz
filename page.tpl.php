@@ -33,12 +33,15 @@
    </div>
 </div>
 
+<?php echo theme('links', $primary_links); ?>
+<?php /*
 <ul id="menu">
 <li id="home"><a href="#">Home</a></li>
 <li id="contact"><a href="#">Contact</a></li>
 <li id="about"><a href="#">About</a></li>
 <li id="help"><a href="#">Help</a></li>
 </ul>
+*/?>
 
 <hr />
 
