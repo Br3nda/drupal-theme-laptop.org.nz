@@ -118,15 +118,19 @@
 
 <hr />
 <div id="contect">
-<p class="contect1">
 <?php echo $content;?>
+<?php /*
+<p class="contect1">
 Lorem ipsum dolor sit amet, consectetuer. gravida tellus, ut dignissim leo risus ut ligula. urna gravida tellus, ut dignissim leo risus ut ligula.
 ellus sit amet sodales dignissim, enim urna gravida. ipsum. Mauris eu mi eget dolor tristique interdum. ultrices in, viverra nec, ipsum. Mauris eu mi eget.
 Nam diam purus, aliquam non, ultrices in, viverra.
+
 </p>
+*/>
 </div>
 
 
+<?php /*
 <div id="imagesmall">
 <img src="/<?php echo $directory; ?>/image_small.png" alt="image small" />
 </div>
@@ -171,7 +175,7 @@ Nam diam purus, aliquam non, ultrices in, viverra.
                 </tr>
               </tbody>
             </table>
-
+*/ ?>
 <hr />
 
 </div>
