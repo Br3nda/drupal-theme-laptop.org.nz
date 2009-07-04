@@ -1,0 +1,22 @@
+#site {margin-top:18px;}
+#logo {top:-19px;}
+#logoimage {margin-left:40px;}
+#menu{top:-8px;}
+#list {height:168px; margin-top:11px;}
+#list li {margin-top:0px;}
+#num1 {padding-top:14px;}
+#num2 {margin-top:27px;}
+#num3 {margin-left:-10px; padding-top:-20px}
+#slogan {margin-top:-140px;}
+#backg {margin-top:40px;}
+#menu2 {margin-top:-5px; margin-left:20px;}
+#button {margin-top:-49px; margin-right:50px; position:relative;}
+#button h2 a {margin-top:3px; margin-left:5px;}
+#news {margin-right:10px;margin-top:14px;}
+#contect {margin-left:10px; margin-top:-515px; line-height:20px;}
+#old {margin-top:30px; margin-left:700px;}
+#imagesmall {clear:both; margin-top:-370px; float:left; margin-left:15px;}
+#imagebig {margin-top:-370px; margin-left:230px;}
+table {margin-top:65px;}
+#footer_line {margin-top:-25px;} 
+.footer {position:relative;}

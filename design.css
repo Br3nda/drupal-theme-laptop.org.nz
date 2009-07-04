@@ -1,0 +1,258 @@
+hr {display:none;}
+a  {text-decoration: none; font-family:arial;}
+
+body{
+background: URL(../forte_green/head.png) repeat-x;
+font-family:arial;
+margin:0px;
+}
+
+#site {
+ width:900px;
+ margin: 0px auto;
+ margin-top:8px;
+}
+
+#logo{
+ position:relative;
+ float: left; 
+ border: none;
+ background: URL(../forte_green/headlogo.png) no-repeat;
+ width: 255px; height: 58px;
+ top: -9px;
+}
+	
+#logo h1 {
+ padding-right:30px;
+ margin-top:7px;
+ margin-left:70px;
+}
+
+.color1 {color: #787979;}
+.color2 {color: #A9AAAA;}
+
+#logoimage {
+ float:left;
+ background: URL(../forte_green/logoimage.png)  no-repeat;
+ margin-left:80px;
+}
+
+#menu{
+ float: right;
+ border: none;
+ position: relative;
+ list-style: none;
+ right: 60px;
+ top: -12px;
+}
+
+
+#menu li {
+			
+			float: left;
+			height: 42px;
+			line-height: 42px; }
+			
+				#menu li a {
+			padding: 10px 20px;
+			color: #BBBABA;
+			font: bold 12px "Verdana", "Arial", "Helvetica", sans-serif;
+			text-decoration: none; }
+			
+			#menu li a:hover {
+			text-decoration:underline;
+			}
+			
+			
+	            #home a {
+			background-color: #A3A710;
+			color:#FFfFff !important; 
+		      }
+
+#list {
+ float:left;
+ clear:both;
+ background: url(../forte_green/list.jpg) left top no-repeat;
+ width:400px;
+ height:168px;
+ margin-top:9px;
+}
+
+#list li {
+ letter-spacing: -1px;
+ font-size: 25px;
+ color:#737373;
+ list-style-type: none;
+}
+
+#num1 {padding:1px 0px;}
+#num2 {padding:22px 0px;}
+#num3 {margin-left:-10px; margin-top:-5px}
+
+#slogan {
+ float:right;
+ color: #435E17;
+ margin-left:470px;
+ margin-top:-170px;
+ width:400px;
+}
+
+#slogan h2 {font-size:38px; font-weight:normal;}
+
+#backg {
+  width:900px;
+  float:left;
+  clear:both;
+  background-color:#FAFBFC;
+  margin-top:41px;
+  padding-bottom:50px;
+}
+
+#menu2 {margin-top:-2px;float:left;}
+		     
+#menu2 li {
+ list-style-type: none;
+ float: left;
+ height: 41px;
+ line-height: 42px;
+ word-spacing:10px;
+}
+			
+#menu2 li a {
+padding: 3px 24px;
+color: #435E17;
+font: bold 22px "Verdana", "Arial", "Helvetica", sans-serif;
+text-decoration: none;
+font-weight:normal;}
+		
+#menu2 li a:hover {
+text-decoration:underline;
+			}
+#info a {
+background-color: #AAD75B;
+color:#435E17; 
+}
+
+#button {
+float:right;
+clear:both;
+background: URL(../forte_green/button.png);
+width:168px;
+height:95px;
+margin-top:-49px;
+margin-right:100px;
+}
+
+#button h2 a {
+padding-bottom:15px;
+padding-top:13px;
+padding-left:20px;
+padding-right:70px;
+margin-top:-16px;
+line-height: 0.8;
+position:absolute;
+width:70px;
+margin-left:5px;
+font-size:36px;
+color: #989595;
+font-weight:normal;
+}
+
+#news {
+margin-right:20px;
+clear:both;
+width:330px;
+float:right;
+font-size:12px;
+color:#ADADAD;
+margin-top:-20px;
+}
+
+#news h3 {font-size:25px;}
+
+.date1,.date2,.date3 {
+font-size:15px;
+color:#435E17;
+margin-top:35px;
+}
+
+#contect {
+clear:both;
+float:left;
+width:470px;
+color:#6A6A6A;
+margin-left:20px;
+margin-top:-515px;
+line-height:20px;
+}
+
+#old a {
+font-size:20px;
+color: #ffffff;
+background-color:#ADADAD;
+padding:2px 16px;
+}
+
+#old {
+clear:both;
+margin-top:540px;
+margin-left:700px;
+}
+
+#imagesmall {
+width:130px;
+height:126px;
+margin-top:-350px;
+float:left;
+margin-left:30px;
+}
+
+#imagebig {
+width:130px;
+height:126px;
+margin-top:-350px;
+margin-left:230px;
+}
+
+table {
+margin:15px 0;
+color:#adadad;
+margin-top:120px;
+margin-left:20px;
+border-collapse:collapse;
+border-spacing:0;
+font-size:100%;
+width: 500px;
+border:2px solid #e2e2e2;
+}
+
+th { text-align:left; font-weight:bold; background: #eeeeee; padding: 7px 5px;}
+th, td { padding:3px 5px; }
+
+#footer1 {
+clear: both;
+background: url(../forte_green/footer.gif) repeat-x;
+height:25px;
+}
+
+#footer_line { 
+clear: both; 
+float: left; 
+width: 100%;
+margin-top:-30px; 
+background: url(../forte_green/footer.gif);
+background-repeat: repeat-x;
+height:25px;
+}
+
+.footer {
+margin-right:10px;
+float:right;
+color:#7E8180;
+font-size:9px;
+margin-top:7px;
+line-height:7px;
+margin-right:10px;
+}
+
+.footer a {color:#C2C5C4;}
